@@ -1,0 +1,35 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Denisstl/RTR108
+    4  ls -lt
+    5  git clone https://github.com/Denisstl/RTR108
+    6  cd RTR108/
+    7  ls -lt
+    8  cat README.md 
+    9  ls -la
+   10  ls -lat
+   11  nano README.md 
+   12  ls -lat
+   13  cat README.md 
+   14  git config --global user.email tiscenko99@inbox.lv
+   15  git add .
+   16  git commit -m "20190207_14_53_pirmais_commits"
+   17  git push origin master
+   18  nano README.md 
+   19  cat README.md 
+   20  git config --global user.email tiscenko99@inbox.lv
+   21  git push origin master
+   22  git config --global user.email tiscenko99@inbox.lv
+   23  git add .
+   24  git commit -m "20190207_14_53_pirmais_commits"
+   25  git push origin master
+   26  nano git-upload
+   27  ls -lt
+   28  ./git_upload
+   29  ./git-upload
+   30  chmod
+   31  chmod 740 git-upload
+   32  ls -lt
+   33  ls
+   34  history
+   35  history > history_20190207.txt
