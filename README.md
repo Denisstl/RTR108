@@ -1,2 +1,7 @@
 # RTR108
-Studiju kursa Datormācība (speckurss) elektronikā klade
+Studiju kursa Datormācība (speckurss) elektroniskā klade
+## 2. nodarbība
+rinda 1
+rinda 2
+rinda 3
+
