@@ -13,6 +13,21 @@ kopēt uz serveri
 ## cd ..
 atvērt augšēja līmeņa mapi
 
+## man
+parāda komandas opcijas
+piemēram, man pwd
+
+## rm
+nodzēš mapi
+rm -r  - ja mape tukša
+rm -rf  - nodzēš ar visu saturu
+
+## touch
+izveido tukšu failu
+
+## mv
+pārvieto failus un mapes
+
 ## uname -a
 parāda operetājsistēmu (os)
 
