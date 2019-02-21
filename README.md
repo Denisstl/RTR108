@@ -5,10 +5,45 @@ rinda 1
 rinda 2  
 rinda 3  
 
-## kopēt uz serveri
-scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
-
+# Komandas
+## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
+kopēt uz serveri
 -r   - visus mapes un failus kopēt
 
-## atvērt augšēja līmeņa mapi
-cd ..
+## cd ..
+atvērt augšēja līmeņa mapi
+
+## uname -a
+parāda operetājsistēmu (os)
+
+## echo $0
+parāda izmantoto interpretatoru ("dialektu")
+
+## whoami
+parāda lietotāju
+
+## pwd
+arāda atrašanas vietu
+
+## ls
+parāda mapes un failus, kur es atrodos
+
+## echo $PATH
+parāda, kur atrodas komandas
+
+## PATH=$PATH:~/
+pievieno jauno mapi ar jaunām komandām (skriptiem)
+
+## chmod
+maina tiesības
+chmod dec. sk. fails
+rwxrwxrwx
+pārveido bin kodu par dec. sk.
+
+
+# Simbolu nozīme
+## -r
+visus mapes un failus
+
+## ~
+mājas mape
