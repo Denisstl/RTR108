@@ -47,3 +47,4 @@ visus mapes un failus
 
 ## ~
 mājas mape
+/home/user
