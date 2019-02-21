@@ -6,7 +6,7 @@ rinda 2
 rinda 3  
   
 
-# Komandas
+# - Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
 kopēt uz serveri  
 -r   - visus mapes un failus kopēt
