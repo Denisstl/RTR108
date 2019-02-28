@@ -19,6 +19,12 @@ Ar komandu unset izdzēš mainīga vērtību.
 $0 - izvada faila nosaukumu
 $1 - izvada pirmo argumentu
 $2 - izvada otro argumentu
+$# - izvada argumentu skaitu
+$* - tekstu paņem, ka vienu argumentu
+$@ - teksta vārdus paņem, ka atsevišķus argumentus
+
+## Using Shell Arrays
+Masīvā var glabāt vairākus argumentus.
 
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
