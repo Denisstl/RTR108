@@ -1,10 +1,15 @@
 # RTR108
 Studiju kursa Datormācība (speckurss) elektroniskā klade
+
 ## 2. nodarbība
 rinda 1  
 rinda 2  
 rinda 3  
-  
+
+## Shell script
+# Shell Scripting Tutorial
+Ar komandu echo izvada tekstu uz ekrāna, un ar komandu read nolasa ievadīto informāciju no klaviatūras
+
 
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
