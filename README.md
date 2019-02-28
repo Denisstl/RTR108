@@ -15,6 +15,11 @@ Ar komandu echo $ izvada mainīga vērtību.
 Ar readonly komandu aizliedz mainīt mainīga vērtību jeb pārtaisa par konstanti.
 Ar komandu unset izdzēš mainīga vērtību.
 
+## Special Variables
+$0 - izvada faila nosaukumu
+$1 - izvada pirmo argumentu
+$2 - izvada otro argumentu
+
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
 kopēt uz serveri  
