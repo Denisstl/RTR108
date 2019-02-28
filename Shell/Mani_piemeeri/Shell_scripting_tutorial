@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Author : Deniss Tiscenko
+# Copyright (c) Tutorialspoint.com
+# Script follows here:
+
+echo "Kas tu esi?"
+read PERSON
+echo "Tu laikam esi $PERSON"

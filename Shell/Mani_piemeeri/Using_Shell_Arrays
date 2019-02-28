@@ -1,0 +1,11 @@
+#!/bin/bash
+
+NAME[0]="Deniss"
+NAME[1]="Toms"
+NAME[2]="Dans"
+NAME[3]="Pauls"
+NAME[4]="Valdis"
+echo "Pirmais indekss: ${NAME[0]}"
+echo "Otrais indekss: ${NAME[1]}"
+echo "Piektais indekss: ${NAME[4]}"
+echo "Masīvs: ${NAME[*]}"

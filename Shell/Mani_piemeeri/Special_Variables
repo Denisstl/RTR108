@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "Faila nosaukums: $0"
+echo "Pirmais arguments : $1"
+echo "Otrais arguments : $2"
+echo "Trešais arguments : $3"
+echo "Kopā ievadīts argumentu : $#"
