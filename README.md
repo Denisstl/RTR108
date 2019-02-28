@@ -6,11 +6,11 @@ rinda 1
 rinda 2  
 rinda 3  
 
-## Shell script
-# Shell Scripting Tutorial
+# Shell script
+## Shell Scripting Tutorial
 Ar komandu echo izvada tekstu uz ekrāna, un ar komandu read nolasa ievadīto informāciju no klaviatūras.
 
-# Using Shell Variables
+## Using Shell Variables
 Ar komandu echo $ izvada mainīga vērtību.
 Ar readonly komandu aizliedz mainīt mainīga vērtību jeb pārtaisa par konstanti.
 Ar komandu unset izdzēš mainīga vērtību.
