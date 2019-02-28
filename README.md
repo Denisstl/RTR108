@@ -8,8 +8,12 @@ rinda 3
 
 ## Shell script
 # Shell Scripting Tutorial
-Ar komandu echo izvada tekstu uz ekrāna, un ar komandu read nolasa ievadīto informāciju no klaviatūras
+Ar komandu echo izvada tekstu uz ekrāna, un ar komandu read nolasa ievadīto informāciju no klaviatūras.
 
+# Using Shell Variables
+Ar komandu echo $ izvada mainīga vērtību.
+Ar readonly komandu aizliedz mainīt mainīga vērtību jeb pārtaisa par konstanti.
+Ar komandu unset izdzēš mainīga vērtību.
 
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
