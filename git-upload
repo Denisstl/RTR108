@@ -5,6 +5,6 @@ git config --global user.email tiscenko99@inbox.lv
 git add .
 #git commit -m "20190207"
 git commit -m $1
-git push
+git pull
 git push origin master
 fi
