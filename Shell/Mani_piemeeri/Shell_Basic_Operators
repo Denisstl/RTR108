@@ -1,0 +1,15 @@
+#!/bin/sh
+
+val=`expr 2 + 2`
+echo "Total value : $val"
+val=`expr 5 - 1`
+echo "Total value : $val"
+val=`expr 6 \* 3`
+echo "Total value : $val"
+val=`expr 9 / 3`
+echo "Total value : $val"
+val=`expr 2 == 2`
+echo "Total value : $val"
+val=`expr 4 == 7`
+echo "Total value : $val"
+

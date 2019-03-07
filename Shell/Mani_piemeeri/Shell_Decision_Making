@@ -1,0 +1,26 @@
+#!/bin/sh
+
+a=10
+b=20
+
+if [ $a == $b ]
+then
+   echo "a ir vienads ar b"
+else
+   echo "a nav vienads ar b"
+fi
+
+if [ $a -ge $b ]
+then
+   echo "a ir lielaks par b"
+else
+   echo "a nav lielaks par b"
+fi
+
+if [ $a -lt $b ]
+then
+   echo "a ir mazaks par b"
+else
+   echo "a nav mazaks par b"
+fi
+
