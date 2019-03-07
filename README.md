@@ -26,6 +26,18 @@ $@ - teksta vārdus paņem, ka atsevišķus argumentus
 ## Using Shell Arrays
 Masīvā var glabāt vairākus argumentus.
 
+## Shell Basic Operators
+Ar operātoriem var saskaitīt, atņemt, reizināt un dalīt skaitļus un mainīgus, ka arī salīdzināt vērtības.
+Ir arī citi operātori ar citām funkcijām.
+
+## Shell Decision Making
+Ar funkciju if pārbauda, vai dota izteiksme ir patiesa vai aplama, un izpilda noteiktas komandas.
+Funkcija case ir līdzīga funkcijai if. Ar funkciju case var pārbaudīt ātri kurš mainīgais ir vienāds ar doto vērtību, un izpildīt atbilstošo algoritmu.
+
+## Shell Loop Types
+Cikls izpilda vieno un to pašu algoritmu vairākas reizes.
+Ciklam var izvēlēties ciklu skaitu, vai arī, kamēr nosacījums izpildas, cikls pildīs to pašu algoritmu no jauna.
+
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
 kopēt uz serveri  
