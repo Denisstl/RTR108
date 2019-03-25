@@ -38,6 +38,15 @@ Funkcija case ir līdzīga funkcijai if. Ar funkciju case var pārbaudīt ātri 
 Cikls izpilda vieno un to pašu algoritmu vairākas reizes.
 Ciklam var izvēlēties ciklu skaitu, vai arī, kamēr nosacījums izpildas, cikls pildīs to pašu algoritmu no jauna.
 
+## Shell Loop Control
+Ja nepieciešams var izveidot bezgalīgu ciklu.
+
+## Shell Input/Output Redirections
+Programmai var ievadīt informāciju, ka arī dabūt informāciju, un to nodot citai programmai.
+
+## Shell Functions
+Funkcija ir neliels algoritms, kuru izsaucot, var iegūt vēlāmo rezultātu.
+
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
 kopēt uz serveri  
