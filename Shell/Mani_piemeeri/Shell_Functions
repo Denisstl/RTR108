@@ -1,0 +1,12 @@
+#!/bin/sh
+
+Hello () {
+   echo "Hello World"
+}
+Diena () {
+   echo "Laba diena"
+}
+
+# Invoke your function
+Hello
+Diena
