@@ -47,6 +47,20 @@ Programmai var ievadīt informāciju, ka arī dabūt informāciju, un to nodot c
 ## Shell Functions
 Funkcija ir neliels algoritms, kuru izsaucot, var iegūt vēlāmo rezultātu.
 
+# Python
+## vides un vietas, kur var treneties python
+- Anaconda
+- colab.research.google.com
+- 213.175.92.37    x121REB360
+
+## interpretatori
+- python
+- ipython
+- idle (idle &)
+
+## komandu dokumentācija
+print(   .__doc__)
+
 # 1. Komandas
 ## scp -r P01 x121REB360@213.175.92.37:~/181REB343/P01/
 kopēt uz serveri  
