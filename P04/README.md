@@ -10,3 +10,5 @@ Caur LATEX viegli veidot avotu sarakstu un atsauces. Veidojot avotu sarakstu, ir
 Attēlus var pārveidot par peldošiem objektiem, un tie nebūs piesaistīti pie teksta, un tie atradīsies lappas puses augša vai apakšā.
 ## Virsraksti un atsauces objektiem
 Izmantojot virsrakstu un atsauci objektam, LATEX sanumrē automatiski tabulas, attēlus un citus objektus, un pēc tam novieto objekta virsrakstu.
+## Mans projekts
+https://www.overleaf.com/project/5c8a4b523588aa60203841cb
